@@ -333,7 +333,7 @@ $(".thumbnail").click(function () {
     var vehiclePrice = $("#modalPrice").text();
 
     var message =
-        "Halo ARIL MOTORS,%0A%0A" +
+        "Asslamualaikum Admin ZAHRAH MOTOR,%0A%0A" +
         "Saya tertarik dengan kendaraan:%0A" +
         "Nama: " + vehicleName + "%0A" +
         "Harga: " + vehiclePrice + "%0A%0A" +
@@ -386,7 +386,6 @@ $("#contactForm").submit(function (event) {
         "*Pesan:*%0A" +
         encodeURIComponent(pesan);
 
-    // Nomor WhatsApp ARIL MOTORS
     var whatsappNumber = "6282353231630";
 
     // Link WhatsApp

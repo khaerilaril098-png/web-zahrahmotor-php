@@ -187,7 +187,7 @@ img {
     align-items: center;
 
     background-image:
-        url("https://images.unsplash.com/photo-1558980664-10ea6f3e2d9f?auto=format&fit=crop&w=2000&q=85");
+        url("../img/background.jpg");
 
     background-size: cover;
     background-position: center;
